@@ -1,0 +1,17 @@
+Dataset: Diabetes Dataset
+
+Source:
+Dataset นี้มาจาก sklearn (load_diabetes)
+
+Description:
+เป็น dataset สำหรับทำนายค่าที่เกี่ยวข้องกับโรคเบาหวาน
+
+Features:
+มีทั้งหมด 10 features เช่น
+- age (อายุ)
+- bmi (ดัชนีมวลกาย)
+- bp (ความดันโลหิต)
+- s1-s6 (ค่าทางเลือด)
+
+Note:
+ข้อมูลถูก preprocess มาแล้วจาก sklearn
